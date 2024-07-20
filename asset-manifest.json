@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BankManagementSystem/static/css/main.07a36972.css",
+    "main.js": "/BankManagementSystem/static/js/main.ae8d64ca.js",
+    "static/js/453.29ea4b5e.chunk.js": "/BankManagementSystem/static/js/453.29ea4b5e.chunk.js",
+    "index.html": "/BankManagementSystem/index.html",
+    "main.07a36972.css.map": "/BankManagementSystem/static/css/main.07a36972.css.map",
+    "main.ae8d64ca.js.map": "/BankManagementSystem/static/js/main.ae8d64ca.js.map",
+    "453.29ea4b5e.chunk.js.map": "/BankManagementSystem/static/js/453.29ea4b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a36972.css",
+    "static/js/main.ae8d64ca.js"
+  ]
+}
